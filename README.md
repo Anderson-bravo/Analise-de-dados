@@ -31,5 +31,5 @@ Conclusões e ações.
 
 1.3: Realizar cálculos
 
-2; Imprimir os relatórios.
+2: Imprimir os relatórios.
 
