@@ -15,14 +15,21 @@ Link Original do Kaggle: https://www.kaggle.com/radmirzosimov/telecom-users-data
 Iniciando o Desafio:
 
 1: Importar a base de dados
+
 1.1: Visualizar a base de dados
+
 1.3: Análise inicial 
+
 2: Tratar a base de dados (corrigir os problemas da base de dados)
 
 Conclusões e ações.
 
+
 1: Análise detalhada dos clientes
+
 1.2: Contar Valores
+
 1.3: Realizar cálculos
+
 2; Imprimir os relatórios.
 
